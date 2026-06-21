@@ -1,61 +1,78 @@
-<div align="center">
-  <!-- Sửa Banner bị lỗi thành GIF chào mừng màu hồng -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ee327f&height=150&section=header&text=Xin%20Chào!%20Mình%20là%20Minh!&fontSize=30&animation=fadeIn"  />
-</div>
+## Hey 👋, I'm MinhHK!  
+  
 
-### 👋 Giới thiệu bản thân
 
-<p align="left">
-I'm Minh, an Information Security student and Developer passionate about systems and security.
-</p>
 
-*   🔭 **Dự án đang làm:** [HuynhKienMinh/WPA2-EAP_Downgrade_Attack](https://github.com/HuynhKienMinh/WPA2-EAP_Downgrade_Attack)
-*   🌱 **Công nghệ đang học:** Advanced Penetration Testing, Cloud Security, và Docker/Kubernetes.
-*   📫 **Liên hệ:** huynh kien minh 2802 @ gmail . com
+### Glad to see you here!  
+I'm Minh, an Information Security student and Developer passionate about systems and security.  
+  
 
-### 💻 My Skill Set
 
-#### Frontend
-<div align="left">
-  <img src="https://img.shields.io/badge/WordPress-%23E32973.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23E32973.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-</div>
 
-#### Backend
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-%23E32973.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23E32973.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%23E32973.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%23E32973.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23E32973.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS-%23E32973.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-%23E32973.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
-</div>
+### 🌐Socials  
+<a href="https://github.com/MinhHK68" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/MinhHK" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/huynhkienminh.vn" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+  
 
-#### DevOps
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-%23E32973.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%23E32973.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-%23E32973.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23E32973.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-</div>
+<br/>  
 
-### 🌐 Connect with me
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub-%23E32973.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-%23E32973.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Facebook-%23E32973.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-</div>
 
-### 📊 Github Stats
+## Languages and Tools  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
+</div>  
 
-<div align="center">
-  <!-- Thêm theme Dracula để đổi sang màu đen-hồng đồng nhất -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&theme=dracula&count_private=true&grade_color=ff79c6" alt="MinhHK68's GitHub Stats" />
-</div>
+<br/>  
 
-### 📑 Recent Blog Posts
-<div align="center">
-  <!-- Thay GIF lỗi bằng một badge đẹp hơn cho Blog -->
-  <img src="https://img.shields.io/badge/Chưa%20có%20bài%20viết%20gần%20đây-%23E32973.svg?style=plastic&logo=medium" />
-</div>
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=MinhHK68&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
