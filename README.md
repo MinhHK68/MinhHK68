@@ -72,7 +72,4 @@ I'm Minh, an Information Security student and Developer passionate about systems
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
