@@ -63,8 +63,10 @@ I'm Minh, an Information Security student and Developer passionate about systems
 
 ### 🏆 GitHub Trophies
 
-<!-- Hiển thị cúp màu tối (Theme Dracula) khi người dùng bật Dark mode -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=dracula&column=6#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Hiển thị cúp màu sáng (Theme Flat) khi người dùng bật Light mode -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <!-- Giao diện Tối (Dark) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MinhHK68&repo=GPA_FPTUniversity&theme=github_dark" />
+  <!-- Giao diện Sáng (Light) -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MinhHK68&repo=GPA_FPTUniversity&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhHK68&repo=GPA_FPTUniversity&theme=default" alt="Project Pin" />
+</picture>
