@@ -1,28 +1,20 @@
 ## Hey 👋, I'm MinhHK!  
-  
-
-
 
 ### Glad to see you here!  
 I'm Minh, an Information Security student and Developer passionate about systems and security.  
-  
 
-
-
-### 🌐Socials  
+### 🌐 Socials  
 <a href="https://github.com/MinhHK68" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/MinhHK" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/huynhkienminh.vn" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>  
-  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -48,28 +40,20 @@ I'm Minh, an Information Security student and Developer passionate about systems
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<!-- Thêm &cache_seconds và &v=1 để phá cache GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&v=1" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&cache_seconds=1800&v=1" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=MinhHK68&style=flat-square)  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=MinhHK68&&style=flat-square)  
-  
-
-<br/>  
-
-
-
+<br/>
