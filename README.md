@@ -64,9 +64,14 @@ I'm Minh, an Information Security student and Developer passionate about systems
 ### 🏆 GitHub Trophies
 
 <picture>
-  <!-- Giao diện Tối (Dark) -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MinhHK68&repo=GPA_FPTUniversity&theme=github_dark" />
-  <!-- Giao diện Sáng (Light) -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MinhHK68&repo=GPA_FPTUniversity&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhHK68&repo=GPA_FPTUniversity&theme=default" alt="Project Pin" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=cattillallnight&theme=github&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=cattillallnight&theme=flat&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cattillallnight&theme=flat&column=6" alt="GitHub Trophy" />
 </picture>
+
+<br/>
+<br/>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=cattillallnight&style=flat-square)  
+
+<br/>
