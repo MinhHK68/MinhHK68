@@ -62,16 +62,9 @@ I'm Minh, an Information Security student and Developer passionate about systems
 <br/>
 
 ### 🏆 GitHub Trophies
-<!-- Đoạn code cúp được thêm vào ở đây, bổ sung cấu hình tự thích ứng theme sáng/tối -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=github&column=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6" alt="GitHub Trophy" />
-</picture>
 
-<br/>
-<br/>
+<!-- Hiển thị cúp màu tối (Theme Dracula) khi người dùng bật Dark mode -->
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=dracula&column=6#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=MinhHK68&style=flat-square)  
-
-<br/>
+<!-- Hiển thị cúp màu sáng (Theme Flat) khi người dùng bật Light mode -->
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
