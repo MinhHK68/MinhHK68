@@ -44,9 +44,7 @@ I'm Minh, an Information Security student and Developer passionate about systems
 <table><tr><td valign="top" width="50%">
 
 <picture>
-  <!-- Khi người xem dùng Dark mode, ưu tiên load theme github_dark -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=1800&v=2" />
-  <!-- Khi người xem dùng Light mode, tự động load theme default (màu trắng) -->
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=1800&v=2" />
   <img src="https://github-readme-stats.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=1800&v=2" align="left" style="width: 100%" />
 </picture>
@@ -54,11 +52,26 @@ I'm Minh, an Information Security student and Developer passionate about systems
 </td><td valign="top" width="50%">
 
 <picture>
-  <!-- Tương tự cho bảng ngôn ngữ hệ tối -->
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=github_dark&cache_seconds=1800&v=2" />
-  <!-- Tương tự cho bảng ngôn ngữ hệ sáng -->
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=default&cache_seconds=1800&v=2" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=default&cache_seconds=1800&v=2" align="left" style="width: 100%" />
 </picture>
 
 </td></tr></table>
+
+<br/>
+
+### 🏆 GitHub Trophies
+<!-- Đoạn code cúp được thêm vào ở đây, bổ sung cấu hình tự thích ứng theme sáng/tối -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=github&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6" alt="GitHub Trophy" />
+</picture>
+
+<br/>
+<br/>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=MinhHK68&style=flat-square)  
+
+<br/>
