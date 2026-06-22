@@ -64,9 +64,9 @@ I'm Minh, an Information Security student and Developer passionate about systems
 ### 🏆 GitHub Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=github&column=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhHK68&theme=flat&column=6" alt="GitHub Trophy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=MinhHK68&theme=github&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=MinhHK68&theme=flat&column=6" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=MinhHK68&theme=flat&column=6" alt="GitHub Trophy" />
 </picture>
 
 <br/>
