@@ -16,6 +16,14 @@ I'm Minh, an Information Security student and Developer passionate about systems
 
 <br/>  
 
+## 🛡️ Security Recognition & Hall of Fames
+
+[![Proton Hall of Fame](https://img.shields.io/badge/Proton_Security-Hall_of_Fame-6d4aff?style=for-the-badge&logo=proton&logoColor=white)](https://proton.me/blog/protonmail-security-contributors#:~:text=Huynh%20Kien%20Minh)
+
+* **Proton Security Contributor** — Honored on the official Proton Hall of Fame for discovering and responsibly disclosing security vulnerabilities in their products.
+
+<br/>  
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
