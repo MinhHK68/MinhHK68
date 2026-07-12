@@ -52,17 +52,17 @@ I'm Minh, an Information Security student and Developer passionate about systems
 <table><tr><td valign="top" width="50%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=1800&v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=1800&v=2" />
-  <img src="https://github-stats-extended.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=1800&v=2" align="left" style="width: 100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=github_dark&v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=default&v=3" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MinhHK68&show_icons=true&count_private=true&hide_border=true&theme=default&v=3" align="left" style="width: 100%" />
 </picture>
 
 </td><td valign="top" width="50%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=github_dark&cache_seconds=1800&v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=default&cache_seconds=1800&v=2" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=default&cache_seconds=1800&v=2" align="left" style="width: 100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=github_dark&v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=default&v=3" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhHK68&hide_border=true&layout=compact&theme=default&v=3" align="left" style="width: 100%" />
 </picture>
 
 </td></tr></table>
