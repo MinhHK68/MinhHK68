@@ -78,6 +78,16 @@ I'm Minh, an Information Security student and Developer passionate about systems
 </picture>
 
 <br/>
+
+### 📈 Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MinhHK68&theme=github-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MinhHK68&theme=github&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhHK68&theme=github&hide_border=true" alt="GitHub Activity Graph" style="width: 100%" />
+</picture>
+
+<br/>
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=MinhHK68&style=flat-square)  
