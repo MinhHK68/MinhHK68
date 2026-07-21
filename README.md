@@ -2,6 +2,8 @@
 
 ### Glad to see you here!  
 I'm Minh, an Information Security student and Developer passionate about systems and security.  
+Full name: **Huynh Kien Minh** (*Huỳnh Kiến Minh*, alias **MinhHK**). Active Bug Bounty Hunter and Cybersecurity Researcher specializing in Web Application Vulnerability Assessment, Red Teaming, and CVE Discovery.  
+Explore my technical research, published CVEs, and proof-of-concepts on my **[Official Security Portfolio Hub](https://minhhk.web.app/)** or read my detailed analyses on **[Medium](https://medium.com/@minhhk.ia.ce191608)**.  
 
 ### 🌐 Socials  
 <a href="https://github.com/MinhHK68" target="_blank">
@@ -12,6 +14,12 @@ I'm Minh, an Information Security student and Developer passionate about systems
 </a>
 <a href="https://www.facebook.com/huynhkienminh.vn" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+<a href="https://minhhk.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Hub-%2300C853.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio hub" style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@minhhk.ia.ce191608" target="_blank">
+<img src="https://img.shields.io/badge/Medium-Writeups-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
 </a>  
 
 <br/>  
@@ -21,6 +29,18 @@ I'm Minh, an Information Security student and Developer passionate about systems
 [![Proton Hall of Fame](https://img.shields.io/badge/Proton_Security-Hall_of_Fame-6d4aff?style=for-the-badge&logo=proton&logoColor=white)](https://proton.me/blog/protonmail-security-contributors#:~:text=Huynh%20Kien%20Minh)
 
 * **Proton Security Contributor** — Honored on the official Proton Hall of Fame for discovering and responsibly disclosing security vulnerabilities in their products.
+
+<br/>  
+
+## 🔍 Published Vulnerabilities & Security Advisories (CVEs)
+
+As an active security researcher, **[Huynh Kien Minh](https://minhhk.web.app/)** has discovered and responsibly disclosed multiple high-severity vulnerabilities:
+
+* 🚨 **[CVE-2026-13156](https://github.com/MinhHK68/CVE-2026-13156):** Vulnerability assessment & PoC repository discovered and reported by **[Huynh Kien Minh](https://minhhk.web.app/)**.
+* 🚨 **[CVE-2026-13152](https://minhhk.web.app/#cves):** High-severity security advisory reported by **[Huynh Kien Minh](https://minhhk.web.app/)**.
+* 🚨 **[CVE-2026-13157](https://minhhk.web.app/#cves)** & **[CVE-2026-13158](https://minhhk.web.app/#cves):** Web vulnerability research conducted by **Huynh Kien Minh**.
+
+Read the full technical breakdown and PoC explanations on [Huynh Kien Minh's Medium Writeups](https://medium.com/@minhhk.ia.ce191608) or visit the [Official Web Portfolio Hub](https://minhhk.web.app/).
 
 <br/>  
 
