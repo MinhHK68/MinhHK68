@@ -37,6 +37,7 @@ Explore my technical research, published CVEs, and proof-of-concepts on my **[Of
 As an active security researcher, **[Huynh Kien Minh](https://minhhk.web.app/)** has discovered and responsibly disclosed high-severity vulnerabilities:
 
 * 🚨 **[CVE-2026-13156](https://github.com/MinhHK68/CVE-2026-13156):** Vulnerability assessment & PoC repository discovered and reported by **[Huynh Kien Minh](https://minhhk.web.app/)**.
+  * 📖 **Read Published Whitepaper:** [Deep-Dive Technical Write-up: CVE-2026-13156 on Medium](https://medium.com/@minhhk.ia.ce191608/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7)
 
 Read the full technical breakdown and PoC explanations on [Huynh Kien Minh's Medium Writeups](https://medium.com/@minhhk.ia.ce191608) or visit the [Official Web Portfolio Hub](https://minhhk.web.app/).
 
