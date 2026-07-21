@@ -34,11 +34,9 @@ Explore my technical research, published CVEs, and proof-of-concepts on my **[Of
 
 ## 🔍 Published Vulnerabilities & Security Advisories (CVEs)
 
-As an active security researcher, **[Huynh Kien Minh](https://minhhk.web.app/)** has discovered and responsibly disclosed multiple high-severity vulnerabilities:
+As an active security researcher, **[Huynh Kien Minh](https://minhhk.web.app/)** has discovered and responsibly disclosed high-severity vulnerabilities:
 
 * 🚨 **[CVE-2026-13156](https://github.com/MinhHK68/CVE-2026-13156):** Vulnerability assessment & PoC repository discovered and reported by **[Huynh Kien Minh](https://minhhk.web.app/)**.
-* 🚨 **[CVE-2026-13152](https://minhhk.web.app/#cves):** High-severity security advisory reported by **[Huynh Kien Minh](https://minhhk.web.app/)**.
-* 🚨 **[CVE-2026-13157](https://minhhk.web.app/#cves)** & **[CVE-2026-13158](https://minhhk.web.app/#cves):** Web vulnerability research conducted by **Huynh Kien Minh**.
 
 Read the full technical breakdown and PoC explanations on [Huynh Kien Minh's Medium Writeups](https://medium.com/@minhhk.ia.ce191608) or visit the [Official Web Portfolio Hub](https://minhhk.web.app/).
 
